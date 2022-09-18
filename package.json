@@ -1,0 +1,11 @@
+{
+  "name": "kafkarnd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "avsc": "^5.7.5",
+    "kafkajs": "^2.2.0"
+  },
+  "type": "module"
+}
